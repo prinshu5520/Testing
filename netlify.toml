@@ -7,5 +7,4 @@
   TESSERACT_PATH = "/usr/bin/tesseract"
   PYTHON = "3.12"
 
-[[plugins]]
-  package = "@netlify/plugin-pip"
+
